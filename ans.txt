@@ -1,1 +1,1 @@
-Enter Employee Type : Enter Salary  : Enter OtHrs : Net Salary is %f 13400
+Enter a value for n Enter a value for r nCr = 14515200
